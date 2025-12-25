@@ -1,0 +1,13 @@
+{
+  "pages": {
+    "home": {
+      "welcome": "Welcome"
+    }
+  },
+  "components": {
+    "language-dropdown-menu": {
+      "languages": "Languages",
+      "change-language": "Change Language"
+    }
+  }
+}

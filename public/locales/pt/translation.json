@@ -1,0 +1,13 @@
+{
+  "components": {
+    "language-dropdown-menu": {
+      "languages": "Idiomas",
+      "change-language": "Alterar idioma"
+    }
+  },
+  "pages": {
+    "home": {
+      "welcome": "Bem-vindo"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "tailwindCSS.classFunctions": [
+    "cn"
+  ],
+  "i18n-ally.localesPaths": [
+    "public/locales"
+  ],
+  "i18n-ally.keystyle": "nested",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    ".vscode": true,
+    ".react-router": true,
+    ".yarn": true,
+    "**/node_modules": true
+  },
+  "explorerExclude.backup": {}
+}
